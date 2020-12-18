@@ -6,7 +6,7 @@ public class Calc {
 	}
 	
 	public void sub(int num1,int num2) {
-		System.out.println("Sun=" +(num1+num2));
+		System.out.println("differnece=" +(num1+num2));
 	}
 	
 	
