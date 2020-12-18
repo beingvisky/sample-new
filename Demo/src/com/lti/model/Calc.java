@@ -9,6 +9,10 @@ public class Calc {
 		System.out.println("Summation=" +(num1+num2));
 	}
 	
+	public void hello() {
+		
+	}
+	
 	
 
 	
